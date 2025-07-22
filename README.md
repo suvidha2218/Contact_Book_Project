@@ -27,7 +27,7 @@ contact_book/
  ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/sakshicodes2024/contact-book.git
+   git clone https://github.com/suvidha2218/contact-book.git
    cd contact-book
    Run the main script:
 
